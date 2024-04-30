@@ -1,6 +1,6 @@
 # Future Tech Admin Panel CMS
 
-Welcome to the ** Future Tech Admin Panel CMS **, an innovative project designed to streamline the management of MongoDB collections and the dynamic generation of TypeScript models. This platform is specifically engineered for administrators and moderators who need a robust yet flexible interface to handle database schemas with ease.
+Welcome to the **Future Tech Admin Panel CMS**, an innovative project designed to streamline the management of MongoDB collections and the dynamic generation of TypeScript models. This platform is specifically engineered for administrators and moderators who need a robust yet flexible interface to handle database schemas with ease.
 
 ## Project Overview
 
