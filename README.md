@@ -8,17 +8,17 @@ The Future Tech Admin Panel CMS provides a user-friendly interface to create and
 
 ## Key Features
 
-** Dynamic Schema Creation: ** Users can define and modify MongoDB collections.
-** TypeScript Integration: ** Generates TypeScript models automatically from collection definitions.
-** Drag-and-Drop Interface: ** Simplifies the creation and configuration of data schemas.
-** No Authentication Required: ** Simplifies initial setup and testing phases.
+- **Dynamic Schema Creation:** Users can define and modify MongoDB collections.
+- **TypeScript Integration:** Generates TypeScript models automatically from collection definitions.
+- **Drag-and-Drop Interface:** Simplifies the creation and configuration of data schemas.
+- **No Authentication Required:** Simplifies initial setup and testing phases.
 
 ## Technologies
 
-** Frontend: ** Next.js (TypeScript), Chakra UI
-** Backend: ** Node.js, Express
-** Database: ** MongoDB
-** Other Tools: ** Axios for HTTP requests
+- **Frontend:** Next.js (TypeScript), Chakra UI
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Other Tools:** Axios for HTTP requests
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ cd server && npm install
 
 # Install dependencies for frontend
 
-cd ../frontend && npm install
+cd ../admin-panel-by-future-tech && npm install
 
 # Run the application
 
